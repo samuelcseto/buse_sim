@@ -1,0 +1,177 @@
+body {
+  background-image: url(../images/body.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#line {
+  position: absolute;
+  color: black;
+  text-align: right;
+  font-family: "Swis721 Md BT";
+  font-size: 10.1vh;
+  float: left;
+  bottom: 1vh;
+  left: 3.1vh;
+}
+#final_stop {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 10.2vh;
+  float: left;
+  bottom: 1.7vh;
+  left: 28vh;
+}
+#time {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 9.8vh;
+  float: right;
+  bottom: 1vh;
+  right: 2vh;
+}
+#next_stop {
+  position: absolute;
+  color: #ffff00;
+  font-family: "Swis721 Md BT";
+  font-size: 10.8vh;
+  float: left;
+  top: 1.5vh;
+  left: 25vh;
+}
+#next_stop_zone {
+  position: absolute;
+  color: #ffff00;
+  font-family: "Swis721 Md BT";
+  font-size: 9.4vh;
+  float: right;
+  top: 2vh;
+  right: 2.3vh;
+}
+#next_stop_1 {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 10.1vh;
+  float: left;
+  top: 17vh;
+  left: 25vh;
+}
+#next_stop_1_zone {
+  position: absolute;
+  color: #6e6e6e;
+  font-family: "Swis721 Md BT";
+  font-size: 7.9vh;
+  float: right;
+  top: 18.4vh;
+  right: 3vh;
+}
+#next_stop_2 {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 9vh;
+  float: left;
+  top: 31vh;
+  left: 26vh;
+}
+#next_stop_2_zone {
+  position: absolute;
+  color: #6e6e6e;
+  font-family: "Swis721 Md BT";
+  font-size: 7.3vh;
+  float: right;
+  top: 32vh;
+  right: 3vh;
+}
+#next_stop_3 {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 8.4vh;
+  float: left;
+  top: 42.5vh;
+  left: 27vh;
+}
+#next_stop_3_zone {
+  position: absolute;
+  color: #6e6e6e;
+  font-family: "Swis721 Md BT";
+  font-size: 6.7vh;
+  float: right;
+  top: 43.4vh;
+  right: 3vh;
+}
+#next_stop_4 {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 7.4vh;
+  float: left;
+  top: 53vh;
+  left: 28vh;
+}
+#next_stop_4_zone {
+  position: absolute;
+  color: #6e6e6e;
+  font-family: "Swis721 Md BT";
+  font-size: 5.6vh;
+  float: right;
+  top: 54.3vh;
+  right: 3vh;
+}
+#next_stop_5 {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 6.5vh;
+  float: left;
+  top: 62.5vh;
+  left: 30vh;
+}
+#next_stop_5_zone {
+  position: absolute;
+  color: #6e6e6e;
+  font-family: "Swis721 Md BT";
+  font-size: 4.8vh;
+  float: right;
+  top: 63.3vh;
+  right: 3vh;
+}
+#next_stop_6 {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 5.5vh;
+  float: left;
+  top: 71vh;
+  left: 31vh;
+}
+ #next_stop_6_zone {
+   position: absolute;
+   color: #6e6e6e;
+   font-family: "Swis721 Md BT";
+   font-size: 3.9vh;
+   float: right;
+   top: 71.7vh;
+   right: 3vh;
+}
+#next_stop_7 {
+  position: absolute;
+  color: black;
+  font-family: "Swis721 Md BT";
+  font-size: 4.6vh;
+  float: left;
+  top: 78.5vh;
+  left: 31.5vh;
+}
+#next_stop_7_zone {
+  position: absolute;
+  color: #6e6e6e;
+  font-family: "Swis721 Md BT";
+  font-size: 3.1vh;
+  float: right;
+  top: 79.3vh;
+  right: 3vh;
+}

@@ -1,0 +1,53 @@
+{
+	"L09301": {
+		"lineNumber": 93,
+		"finalStop": "Hlavná stanica",
+		"numberOfStops": 16,
+		"stops": {
+			"0": {"name": "Vyšehradská", "zone": 100},
+			"1": {"name": "Lúky V", "zone": 100},
+			"2": {"name": "Budatínska", "zone": 100},
+			"3": {"name": "ZŠ Budatínska", "zone": 100},
+			"4": {"name": "Lúky II", "zone": 100},
+			"5": {"name": "Smolenická", "zone": 100},
+			"6": {"name": "Jiráskova", "zone": 100},
+			"7": {"name": "VŠ Manažmentu", "zone": 100},
+			"8": {"name": "ŽST Petržalka", "zone": 100},
+			"9": {"name": "Rusovská cesta", "zone": 100},
+			"10": {"name": "Dvory", "zone": 100},
+			"11": {"name": "Aupark", "zone": 100},
+			"12": {"name": "Zochova", "zone": 100},
+			"13": {"name": "Hodžovo nám.", "zone": 100},
+			"14": {"name": "SAV", "zone": 100},
+			"15": {"name": "Hlavná stanica", "zone": 100}
+		}
+	},
+	"L20101": {
+		"lineNumber": 201,
+		"finalStop": "Čiližská",
+		"numberOfStops": 21,
+		"stops": {
+			"0": {"name": "Hlavná stanica", "zone": 100},
+			"1": {"name": "Nám. Franza Liszta", "zone": 100},
+			"2": {"name": "Karpatská", "zone": 100},
+			"3": {"name": "Račianske mýto", "zone": 100},
+			"4": {"name": "Trnavské mýto", "zone": 100},
+			"5": {"name": "Saleziáni", "zone": 100},
+			"6": {"name": "Trhovisko", "zone": 100},
+			"7": {"name": "Miletičova", "zone": 100},
+			"8": {"name": "Prievozská", "zone": 100},
+			"9": {"name": "Hraničná-OC Retro", "zone": 100},
+			"10": {"name": "Gagarinova-Rádio Europa 2", "zone": 100},
+			"11": {"name": "Brodná", "zone": 100},
+			"12": {"name": "Ondrejovova", "zone": 100},
+			"13": {"name": "Ríbezľová", "zone": 100},
+			"14": {"name": "Cintorín Vrakuňa", "zone": 100},
+			"15": {"name": "Priekopnícka", "zone": 101},
+			"16": {"name": "Komárovská", "zone": 101},
+			"17": {"name": "Toryská", "zone": 101},
+			"18": {"name": "Hronská", "zone": 101},
+			"19": {"name": "Dudvážska", "zone": 101},
+			"20": {"name": "Čiližská", "zone": 101}
+		}
+	}
+}
