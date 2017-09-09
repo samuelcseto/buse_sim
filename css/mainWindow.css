@@ -31,6 +31,77 @@ body {
   bottom: 1vh;
   right: 2vh;
 }
+#dopyt {
+  position: absolute;
+  left: 0vh;
+  top: 0.6vh;
+  display: none;
+  z-index: 1;
+}
+#next_stop_request {
+  display: none;
+  position: absolute;
+  width: 8vh;
+  height: auto;
+  top: 4.2vh;
+  left: 9vh;
+}
+#next_stop_1_request {
+  display: none;
+  position: absolute;
+  width: 8vh;
+  height: auto;
+  top: 19.4vh;
+  left: 10.6vh;
+}
+#next_stop_2_request {
+  display: none;
+  position: absolute;
+  width: 6.8vh;
+  height: auto;
+  top: 33vh;
+  left: 12vh;
+}
+#next_stop_3_request {
+  display: none;
+  position: absolute;
+  width: 5.8vh;
+  height: auto;
+  top: 44.8vh;
+  left: 13.6vh;
+}
+#next_stop_4_request {
+  display: none;
+  position: absolute;
+  width: 5vh;
+  height: auto;
+  top: 55vh;
+  left: 15vh;
+}
+#next_stop_5_request {
+  display: none;
+  position: absolute;
+  width: 4vh;
+  height: auto;
+  top: 64.6vh;
+  left: 16.3vh;
+}
+#next_stop_6_request {
+  display: none;
+  position: absolute;
+  width: 3.1vh;
+  height: auto;
+  top: 72.8vh;
+  left: 17.4vh;
+}
+#next_stop_7_request {
+  display: none;
+  position: absolute;
+  width: 2.9vh;
+  height: auto;
+  top: 80vh;
+  left: 18.2vh;
+}
 #next_stop {
   position: absolute;
   color: #ffff00;
@@ -39,6 +110,7 @@ body {
   float: left;
   top: 1.5vh;
   left: 25vh;
+  z-index: 2;
 }
 #next_stop_zone {
   position: absolute;
@@ -48,6 +120,7 @@ body {
   float: right;
   top: 2vh;
   right: 2.3vh;
+  z-index: 2;
 }
 #next_stop_1 {
   position: absolute;
@@ -71,10 +144,10 @@ body {
   position: absolute;
   color: black;
   font-family: "Swis721 Md BT";
-  font-size: 9vh;
+  font-size: 9.2vh;
   float: left;
   top: 31vh;
-  left: 26vh;
+  left: 25.6vh;
 }
 #next_stop_2_zone {
   position: absolute;
