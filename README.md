@@ -15,6 +15,7 @@
 |      **F1** - Otvorí menu nastavení      |
 |         **Q** - Prehodí zastávku         |
 | **D** - Dopytové tlačítko pre zastávku na znamenie |
+|     **F11** - Režim celej obrazovky      |
 |      **CTRL + X** - Ukončí program       |
 
 **Download**
