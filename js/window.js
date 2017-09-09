@@ -16,8 +16,15 @@ setInterval(checkTime, 1000);
 MouseTrap.bind("f1", () => {
   remote.BrowserWindow.fromId(2).show();
 })
+var fullscreen = false;
 Mousetrap.bind("f11", () => {
-  remote.BrowserWindow.fromId(1).maximize();
+  if (fullscreen == false) {
+    fullscreen = true;
+    remote.BrowserWindow.fromId(1).setFullScreen(true);
+  } else {
+    fullscreen = false;
+    remote.BrowserWindow.fromId(1).setFullScreen(false);
+  }
 })
 // NAČÍTANIE DATABÁZE
 jsonfile.readFile(path.join(__dirname, 'database.json'), function(err, obj) {
