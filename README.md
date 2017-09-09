@@ -8,6 +8,15 @@
 
 ![settingsMenu](https://i.snag.gy/yLkiX4.jpg "Menu nastavení")
 
+
+
+|            Klávesové skratky             |
+| :--------------------------------------: |
+|      **F1** - Otvorí menu nastavení      |
+|         **Q** - Prehodí zastávku         |
+| **D** - Dopytové tlačítko pre zastávku na znamenie |
+|      **CTRL + X** - Ukončí program       |
+
 **Download**
 
 Stiahnutie programu je možné pomocou záložky release.
